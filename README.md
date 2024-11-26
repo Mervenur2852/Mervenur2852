@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning  JavaScript , HTML5, CSS3, Bootstrap, React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mervegecici8@gmail.com
-- 😄 Pronouns: .Yeni şeyler ve yazılım öğrenmeyi seviyorum..
+- 😄 Yeni şeyler ve yazılım öğrenmeyi seviyorum..
 - ⚡ Fun fact: ...
 
 <!---
