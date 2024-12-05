@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Mervenur Aydın</h1>
 <h3 align="center">👀 I’m interested in Software Development Frontend Development</h3>
 
-<h3 align="left">Benimle iletişime geçin:</h3>
+📫 How to reach me **mervegecici8@gmail.com**
 <p align="left">
 </p>
 
