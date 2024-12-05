@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Mervenur Aydın</h1>
 <h3 align="center">👀 I’m interested in Software Development Frontend Development</h3>
-
+- 🌱 I’m currently learnin **JavaScript, HTML5, CSS3,Bpptstrap, React,**
 📫 How to reach me **mervegecici8@gmail.com**
 <p align="left">
 </p>
