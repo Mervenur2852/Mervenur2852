@@ -1,5 +1,5 @@
-<h1 align="center">Merhaba 👋, ben Mervenur Aydın</h1>
-<h3 align="center">👀 Yazılım Geliştirme ve Ön Uç Geliştirme ile ilgileniyorum</h3>
+<h1 align="center"> Hi 👋, I'm Mervenur Aydın</h1>
+<h3 align="center">👀 I’m interested in Software Development Frontend Development</h3>
 
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
